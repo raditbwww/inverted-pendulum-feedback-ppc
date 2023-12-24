@@ -3,5 +3,5 @@
 Stabilization of Inverted Pendulum on a Cart using Feedback Controller by Pole-Placement Method
 
 By:
-Noor Shafira
-Raditya Bagus Wardhana
+- Noor Shafira
+- Raditya Bagus Wardhana
