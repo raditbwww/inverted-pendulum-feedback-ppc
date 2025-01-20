@@ -5,3 +5,5 @@ Stabilization of Inverted Pendulum on a Cart using Feedback Controller by Pole-P
 By:
 - Noor Shafira
 - Raditya Bagus Wardhana
+
+[Youtube Link](https://youtu.be/umUZYTAio9M)
